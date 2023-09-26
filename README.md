@@ -1,6 +1,6 @@
 # PartMaster
 
-PartMaster is a computer vision project  designed to  identify and categorize various car components using deep learning techniques and convolutional neural networks . This project is aimed at providing a versatile solution for automating car part recognition tasks, with potential applications in the automotive industry, inventory management, maintenance, and more.
+PartMaster is a computer vision project  designed to  identify and categorize various car components using deep learning techniques and convolutional neural networks . This project is aimed at providing a solution for automating car part recognition tasks, with potential applications in the automotive industry, inventory management, maintenance, and more.
 
 ## Overview
 
