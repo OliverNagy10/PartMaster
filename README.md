@@ -13,6 +13,11 @@ The core of the project is a deep learning model trained to recognize different 
 ### 2. Flask Web Application
 
 The project includes a  Flask-based web application. Users can upload images of car parts via the web interface, and the model provides real-time predictions, identifying the specific part in the image.
+
+![Car Part Recognition GIF](https://github.com/OliverNagy10/PartMaster/blob/main/tutorial.gif)
+
+
+
 ## Prerequisites
 
 Before using the app, make sure you have the following installed:
