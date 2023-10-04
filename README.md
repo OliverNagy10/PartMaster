@@ -48,10 +48,13 @@ Follow these steps to set up:
 
 
  4. **Access the app**
-Open a web browser and go to the address provided in the previous step (e.g., http://127.0.0.1:8080/). You should see the home page of the app.
+
+    Open a web browser and go to the address provided in the previous step (e.g., http://127.0.0.1:8080/). You should see the home page of the app.
 
  4. **Upload Image**
-Click on the "Choose File" button to upload an image of a car part that you want to recognize.
 
-5. **View Prediction**
-After uploading an image, the app will process it and display the predicted car part label on the screen.
+    Click on the "Choose File" button to upload an image of a car part that you want to recognize.
+
+6. **View Prediction**
+
+   After uploading an image, the app will process it and display the predicted car part label on the screen.
