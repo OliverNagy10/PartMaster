@@ -34,9 +34,24 @@ Follow these steps to set up:
 
    Navigate to the project directory where you extracted the files.
 
-   Install the required Python dependencies:
+   Install the required dependencies:
 
    ```bash
    pip install -r requirements.txt
+ 
+ 3. **Run the App**
+    
+    Start the Flask application by running the following command from the project directory:
+    
+    ```bash
+     python app.py
 
-  
+
+ 4. **Access the app**
+Open a web browser and go to the address provided in the previous step (e.g., http://127.0.0.1:8080/). You should see the home page of the app.
+
+ 4. **Upload Image**
+Click on the "Choose File" button to upload an image of a car part that you want to recognize.
+
+5. **View Prediction**
+After uploading an image, the app will process it and display the predicted car part label on the screen.
