@@ -13,3 +13,30 @@ The core of the project is a deep learning model trained to recognize different 
 ### 2. Flask Web Application
 
 The project includes a  Flask-based web application. Users can upload images of car parts via the web interface, and the model provides real-time predictions, identifying the specific part in the image.
+## Prerequisites
+
+Before using the app, make sure you have the following installed:
+
+- Python (version 3.6 or higher)
+- pip (Python package manager)
+
+## Getting Started
+
+Follow these steps to set up:
+
+1. **Download Project Files**:
+
+   Download the project files from the following Google Drive folder: [Google Drive Project Folder](https://drive.google.com/drive/folders/1SfCNkofSfip6KsEe3v9VULVN22nAFodM?usp=sharing)
+
+   Extract the downloaded ZIP archive to a location of your choice on your local machine.
+
+2. **Install Dependencies**:
+
+   Navigate to the project directory where you extracted the files.
+
+   Install the required Python dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+
+  
